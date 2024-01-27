@@ -5,7 +5,6 @@ This project is a simple chat application built using React Native and Firebase.
 ## Features
 
 - User authentication using Firebase Authentication.
-- Individual and group chat creation.
 - Real-time messaging functionality.
 - Navigation between screens using React Navigation.
 
@@ -15,10 +14,10 @@ This project is a simple chat application built using React Native and Firebase.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/react-native-chat-app.git```
+   git clone https://github.com/raunakkumar2005/chat.git```
 
    
-   cd GroupChat
+   cd chat
 
    
    npm install
