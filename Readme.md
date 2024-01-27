@@ -21,6 +21,15 @@ This project is a simple chat application built using React Native and Firebase.
 
    
    npm install
+user credentials :
+name:aryan001@gmail.com
+password : 123456
+
+name:aftab002@gmail.com
+password : 123456
+
+name:raunak003@gmail.com
+password : 123456
 
 
 
