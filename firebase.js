@@ -1,14 +1,14 @@
 import firebase from 'firebase/compat/app';
 import { getAuth } from "firebase/auth";
-import { getFirestore } from 'firebase/firestore';
+import { getFirestore, initializeFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyC1OMqBM4Drw-hoZ7iV96baDdAweONaJ90",
-    authDomain: "concise-crane-378915.firebaseapp.com",
-    projectId: "concise-crane-378915",
-    storageBucket: "concise-crane-378915.appspot.com",
-    messagingSenderId: "647865362660",
-    appId: "1:647865362660:web:3cee46f3441333ba30a4f1"
+    apiKey: "AIzaSyDAh4f78I5ce_l6HTP0IRqleX-PdK0sMbY",
+    authDomain: "chat-a3869.firebaseapp.com",
+    projectId: "chat-a3869",
+    storageBucket: "chat-a3869.appspot.com",
+    messagingSenderId: "284764268843",
+    appId: "1:284764268843:web:a0b34386140c449191fd6e"
 };
 
 
@@ -16,4 +16,4 @@ const app = firebase.initializeApp(firebaseConfig);
 
 
 export const auth = getAuth(app);
-export const firestore = getFirestore(app, { experimentalAutoDetectLongPolling: true });
+export const firestore = initializeFirestore(app, { experimentalForceLongPolling: true });
