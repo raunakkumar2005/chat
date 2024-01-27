@@ -17,8 +17,8 @@ This project is a simple chat application built using React Native and Firebase.
    ```bash
    git clone https://github.com/yourusername/react-native-chat-app.git```
 
-   ```bash
-   cd GroupChat```
+   
+   cd GroupChat
 
-   ```bash
-   npm install```
+   
+   npm install
