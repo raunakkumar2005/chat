@@ -14,7 +14,7 @@ This project is a simple chat application built using React Native and Firebase.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/raunakkumar2005/chat.git```
+   git clone https://github.com/raunakkumar2005/chat.git
 
    
    cd chat
@@ -22,9 +22,8 @@ This project is a simple chat application built using React Native and Firebase.
    
    npm install
 
-   ## Login
 
-   email : ritesh29june2006@gmail.com
-   password: ritesh
+
+   
 
    
