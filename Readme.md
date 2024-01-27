@@ -21,3 +21,10 @@ This project is a simple chat application built using React Native and Firebase.
 
    
    npm install
+
+   ## Login
+
+   email : ritesh29june2006@gmail.com
+   password: ritesh
+
+   
